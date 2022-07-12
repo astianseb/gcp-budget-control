@@ -1,0 +1,5 @@
+google-api-python-client==1.10.0
+httplib2==0.20.4
+google-cloud-pubsub==2.9.0
+google-cloud-bigquery==2.34.0
+google-api-core==1.31.5

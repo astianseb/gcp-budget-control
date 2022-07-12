@@ -1,0 +1,23 @@
+{
+  "context": {
+    "eventId":"1144231683168617",
+    "timestamp":"2020-05-06T07:33:34.556Z",
+    "eventType":"google.pubsub.topic.publish",
+    "resource":{
+      "service":"pubsub.googleapis.com",
+      "name":"projects/sample-project/topics/gcf-test",
+      "type":"type.googleapis.com/google.pubsub.v1.PubsubMessage"
+    }
+  },
+  "data": {
+    "@type": "type.googleapis.com/google.pubsub.v1.PubsubMessage",
+    "attributes": {
+       "billingAccountId": "01CF89-BC7A7D-004102",
+       "budgetId": "8b451d7a-710f-4095-a968-ca0cf6b75a9b",
+       "schemaVersion": "1.0"
+    },
+    "data_comment": "Data is base64 encoded",
+    "data": "ew0KICAgICJidWRnZXREaXNwbGF5TmFtZSI6ICJuYW1lLW9mLWJ1ZGdldCIsDQogICAgImFsZXJ0VGhyZXNob2xkRXhjZWVkZWQiOiAxLjAsDQogICAgImNvc3RBbW91bnQiOiAxNTAuMDAsDQogICAgImNvc3RJbnRlcnZhbFN0YXJ0IjogIjIwMTktMDEtMDFUMDA6MDA6MDBaIiwNCiAgICAiYnVkZ2V0QW1vdW50IjogMTAwLjAwLA0KICAgICJidWRnZXRBbW91bnRUeXBlIjogIlNQRUNJRklFRF9BTU9VTlQiLA0KICAgICJjdXJyZW5jeUNvZGUiOiAiVVNEIg0KfQ=="
+  }
+}
+
